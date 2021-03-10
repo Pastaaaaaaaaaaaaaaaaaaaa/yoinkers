@@ -1,0 +1,14 @@
+#video{width:1450px;
+height:300px}
+
+.classes{width:300px}
+
+.gamediv{display:inline-block;
+width:100%;
+margin-bottom:15px;
+border-radius:10px;
+font-size:20px;
+padding:6px 22px;
+background:dimgrey;}
+
+.gamediv i{float:right;}
